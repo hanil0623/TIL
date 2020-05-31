@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="144fc6cf-db1a-4496-9f95-a17a16db52bf" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/img_191221.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img_191225.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img_191228.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img_200101.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img_200104.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img_200106.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img_200107.jpg" beforeDir="false" />
-    </list>
+    <list default="true" id="144fc6cf-db1a-4496-9f95-a17a16db52bf" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,6 +21,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/IdeaProjects/Proj_종이조각" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -41,7 +34,21 @@
       <option name="presentableId" value="Default" />
       <updated>1587216068486</updated>
       <workItem from="1587216085296" duration="12000" />
+      <workItem from="1588317971250" duration="117000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="861" y="167" key="FileChooserDialogImpl" timestamp="1588318090433">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="861" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1588318090433" />
+    <state x="360" y="22" key="new project wizard" timestamp="1588318070884">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="360" y="22" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1588318070884" />
   </component>
 </project>
